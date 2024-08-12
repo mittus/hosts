@@ -1,6 +1,8 @@
 # hosts
 Update windows hosts by command
 
+![hostsClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ea4b116e-4d76-497c-9ff1-349de9f58afc)
+
 ### Добавление связного shell скрипта в удобном месте (в примере имя файла будет hosts.sh)
 
 ```bash
